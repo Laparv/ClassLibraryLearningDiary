@@ -16,9 +16,10 @@ namespace ClassLibraryLearningDiary
             }
         }
 
-        public bool CheckIfLate()
+        public bool CheckIfLate(double days)
         {
-            
+            DateTime studenttime = DateTime.Now.AddDays(days);
+            if (studenttime > )
         }
 
     }
