@@ -2,7 +2,7 @@
 
 namespace ClassLibraryLearningDiary
 {
-    public class Class1
+    public class MethodLibrary
     {
         public bool CheckFuture(DateTime given)
         {
