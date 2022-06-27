@@ -8,3 +8,13 @@ C:\Users\Lasse\source\repos\ClassLibraryLearningDiary\ClassLibraryLearningDiary\
 C:\Users\Lasse\source\repos\ClassLibraryLearningDiary\ClassLibraryLearningDiary\bin\Debug\netcoreapp3.1\ClassLibraryLearningDiary.pdb
 C:\Users\Lasse\source\repos\ClassLibraryLearningDiary\ClassLibraryLearningDiary\obj\Debug\netcoreapp3.1\ClassLibraryLearningDiary.dll
 C:\Users\Lasse\source\repos\ClassLibraryLearningDiary\ClassLibraryLearningDiary\obj\Debug\netcoreapp3.1\ClassLibraryLearningDiary.pdb
+C:\Users\Roosa\source\repos\ClassLibraryLearningDiary\ClassLibraryLearningDiary\bin\Debug\netcoreapp3.1\ClassLibraryLearningDiary.deps.json
+C:\Users\Roosa\source\repos\ClassLibraryLearningDiary\ClassLibraryLearningDiary\bin\Debug\netcoreapp3.1\ClassLibraryLearningDiary.dll
+C:\Users\Roosa\source\repos\ClassLibraryLearningDiary\ClassLibraryLearningDiary\bin\Debug\netcoreapp3.1\ClassLibraryLearningDiary.pdb
+C:\Users\Roosa\source\repos\ClassLibraryLearningDiary\ClassLibraryLearningDiary\obj\Debug\netcoreapp3.1\ClassLibraryLearningDiary.csproj.AssemblyReference.cache
+C:\Users\Roosa\source\repos\ClassLibraryLearningDiary\ClassLibraryLearningDiary\obj\Debug\netcoreapp3.1\ClassLibraryLearningDiary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roosa\source\repos\ClassLibraryLearningDiary\ClassLibraryLearningDiary\obj\Debug\netcoreapp3.1\ClassLibraryLearningDiary.AssemblyInfoInputs.cache
+C:\Users\Roosa\source\repos\ClassLibraryLearningDiary\ClassLibraryLearningDiary\obj\Debug\netcoreapp3.1\ClassLibraryLearningDiary.AssemblyInfo.cs
+C:\Users\Roosa\source\repos\ClassLibraryLearningDiary\ClassLibraryLearningDiary\obj\Debug\netcoreapp3.1\ClassLibraryLearningDiary.csproj.CoreCompileInputs.cache
+C:\Users\Roosa\source\repos\ClassLibraryLearningDiary\ClassLibraryLearningDiary\obj\Debug\netcoreapp3.1\ClassLibraryLearningDiary.dll
+C:\Users\Roosa\source\repos\ClassLibraryLearningDiary\ClassLibraryLearningDiary\obj\Debug\netcoreapp3.1\ClassLibraryLearningDiary.pdb
