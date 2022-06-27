@@ -4,7 +4,22 @@ namespace ClassLibraryLearningDiary
 {
     public class Class1
     {
+        public bool CheckFuture(DateTime given)
+        {
+            if (given < DateTime.Now)
+            {
+                return false;
+            }
+            else
+            {
+                return true;
+            }
+        }
 
-        //kommenttirivi jolla testataan toimiiko
+        public bool CheckIfLate()
+        {
+            
+        }
+
     }
 }
