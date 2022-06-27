@@ -16,10 +16,18 @@ namespace ClassLibraryLearningDiary
             }
         }
 
-        public bool CheckIfLate(double days)
+        public bool CheckIfLate(DateTime given)
         {
-            DateTime studenttime = DateTime.Now.AddDays(days);
-            if (studenttime > )
+            given = StartLearningDate.AddDays(TimeToMaster);
+
+            if (given < DateTime.Now)
+            {
+                return false;
+            }
+            else
+            {
+                return true;
+            }
         }
 
     }
